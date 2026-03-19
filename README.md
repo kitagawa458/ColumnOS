@@ -1,12 +1,11 @@
-# Luck - The LuaOS kernel
-
-Luck is the kernel for LuaOS, it is a microkernel.
+# ColumnOS - OS Based on the LuaOS
+This is a OS From the Roblox Placed named ICSCS
 
 ## Building
 
 Get the source with:
 
-`git clone --recursive https://github.com/TheLuaOSProject/Kernel.git`
+`git clone --recursive https://github.com/ecchi123/ColumnOS.git`
 
 ### Dependencies
 
